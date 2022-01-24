@@ -5,6 +5,6 @@ THere are three types of coyoteLAng files:
 # File types
 .cys: CoYote Style: Transpiles to CSS
 
-.cyl: CoYoteLAng: Transpiles to HTML
+.cyl: CoYoteLang: Transpiles to HTML
 
-.clm: CoYote Make: Doesnt transpile
+.clm: CoyoteLang Make: Doesnt transpile
