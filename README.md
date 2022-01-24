@@ -1,5 +1,5 @@
 # coyoteLang
-CoyoteLang is i think a multi-paradigm (OOP and Functional) laanguage which transplis to HTML/CSS.
+CoyoteLang is i think a multi-paradigm (OOP and Functional) la nguage which transpiles to HTML/CSS.
 THere are three types of coyoteLAng files:
 
 # File types
